@@ -1,11 +1,11 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          PILJAE
+description:    "Product Manager 입니다."
 baseurl:        ""
-url:            "https://chesterhow.github.io"
+url:            "https://piljae.com"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA—159928836-1
 
 # Author
 author:
@@ -39,3 +39,11 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
+
+remote_theme: chesterhow/tale
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
