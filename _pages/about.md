@@ -21,7 +21,7 @@ published: true
 ### CAREER
 
 
-- 2019.08 ~ Recent    : Product Manager, Codestates
+- 2019.08 ~ Recent   : Product Manager, Codestates
 - 2018.06 ~ 2019.03  : Strategy team Manager, Daybit, Chain partners
 				       Junior consultant ,  Tokenomia, Chain partners
 - 2018.01 ~ 2018.05  : Co-founder & Operation, Start-up
