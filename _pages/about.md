@@ -5,12 +5,12 @@ author: Piljae
 permalink: /about/
 published: true
 ---
-## 안녕하세요.저는 박필재 입니다
 
-## 교육 스타트업에서 Product Manager로 일하고 있습니다.
 
 ## ABOUT
-
+-------------
+ 안녕하세요 박필재 입니다. 현재는 교육 스타트업에 Product Manger로 일하고 있습니다. 
+ 
  PM으로도 성장하고 싶은 욕심이 강하지만, 창업하고 싶다는 욕심이 더 큽니다.하나에 몰입해서 하루 종일 하나의 생각을 하고 싶고 몰입을 즐깁니다.대체로 일에 몰입을 많이 합니다. 그래서 창업하고 싶습니다. 
  
  계속 배우는 것을 즐기고 책 읽는 것을 좋아합니다. 주로 관심 있는 주제는 Product Management, 린스타트업 , 조직 문화, Growth 입니다. 더하여 금융, 경제에도 관심이 있어 꾸준히 공부 중입니다. 도메인은 교육, 핀테크 (& 테크핀), 블록체인에 관심이 많습니다.
@@ -19,7 +19,7 @@ published: true
 
 
 ## CAREER
-
+---------------
 
 - 2019.08 ~ Recent   : Product Manager At Codestates
 
