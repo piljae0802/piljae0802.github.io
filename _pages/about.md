@@ -5,7 +5,9 @@ author: Piljae
 permalink: /about/
 published: true
 ---
-## 안녕하세요.저는 박필재 입니다, 교육 스타트업에서 Product Manager로 일하고 있습니다.
+## 안녕하세요.저는 박필재 입니다
+
+## 교육 스타트업에서 Product Manager로 일하고 있습니다.
 
 ## ABOUT
 
