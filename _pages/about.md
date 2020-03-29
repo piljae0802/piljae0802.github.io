@@ -1,15 +1,31 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: About
+author: Piljae
 permalink: /about/
+published: true
 ---
+## 안녕하세요.저는 박필재 입니다.
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+- 현재는 교육 스타트업에서 Product Manager로 일하고 있습니다.
+- PM으로도 성장하고 싶은 욕심이 강하지만, 창업하고 싶다는 욕심이 더 큽니다.
+- 하나에 몰입해서 하루 종일 하나의 생각을 하고 싶고 몰입을 즐깁니다. (대체로 일에 몰입을 많이 합니다. 그래서 창업하고 싶습니다)
+- 계속 배우는 것을 즐기고 책 읽는 것을 좋아합니다.
+- 주변에 긍정적인 영향을 끼치려고 노력하고 있습니다. 
+- 배우고 보고 느낀 것을 공유하고자 블로그를 시작했습니다.
+- 아직 블로그에 글 쓰는거보다 블로그 꾸미는게 더 재미있습니다.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+### 경력
+
+2019. 08 ~ Recent    : Product Manager, Codestates
+2018. 06 ~ 2019. 03  : Strategy team Manager, Daybit, Chain partners
+				       junior consultant ,  Tokenomia, Chain partners
+2018. 01 ~ 2019. 05  : Co-founder & Operation, Start-up
+2016. 10 ~ 2017. 10  : Co-founder & Product Lead, Start-up
+
+
+
+
 
 Thanks for reading!
