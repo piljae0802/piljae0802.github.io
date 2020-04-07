@@ -1,25 +1,32 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title: How will you measure your life?
+author: Chester
 comments: true
+published: true
 ---
 
-Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
+### How will you measure your life?
+### [하버드 인생학 특강] 크리스텐슨
 
-## Tale features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
 
-Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
 
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
+경영학의 구루 크리스텐슨 교수님의 인생 경영 책입니다. 
 
-## Download or Contribute
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
+어떻게 살아야할지 고민이 많은 이 시점에서 답을 찾을 수 있게 화두를 던져주는 책입니다.
+경영학 구루 답게 경영학의 이론을 내 삶에 적용해보는 내용이 대부분입니다.
+이 책의 대부분의 내용은  삶이라는 Product를 잘 매니징하는 교훈에 가깝습니다.
 
-Thanks for checking out Tale!
+ 예를 들면 다음과 같은 내용입니다.
+ 
+- Product-market-fit :내가 진가를 잘 발휘할 수 있는 곳을 찾을 때까지 효과적으로 접근해야한다.
+- prioritization :내 삶의 우선순위를 잘 정하고 더 많이 투자해라
+- Jobs to be done :해야 할 일의 관점에서 자신의 관계를 생각해보고, 내 주변사람이 내가 어떤 일을 해주기를 가장 바라는 걸까를 스스로 생각해 봐 등등
+
+평소의 많은 시간을 회사에 비전을 요구하고, 매 분기 OKR을 계획하고 달성하기위해 노력하고, 고객 만족을 위해서 회사 제품 개선하는데 사용합니다. 반면 정작 내 삶의 비전에 대해서는 고민하는데, 내 삶의 계획(okr)을 세우고 지켜나가는데, 내 주변 사람을 만족시키기 위한 노력을 하는 것에는 시간을 많이 쓰지 않습니다. 이 책을 읽고 많이 반성하게 되었습니다.
+
+   내가 무엇이 되고 싶고, 무엇에 전력을 다해야할 지, 내 삶의 평가 기준이 무엇인지 깊은 고민을 시작하게 해주는 것만으로도 정말 좋은 책 인 것 같습니다. 하루라도 더 빨리 이 책을 봤으면 좋았을텐데 라는 생각도 듭니다..
+
+정말 오랜만에 책을 다 읽고 덮을 때, 알 수 없는 두근거림을 느꼈습니다.
+
+어떻게 살아야할 지 고믾이 많은 분들에게 추천드립니다.
