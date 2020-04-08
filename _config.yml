@@ -5,13 +5,13 @@ baseurl:        ""
 url:            "https://piljae.com"
 
 # Google Analytics
-google_analytics: UA—159928836-1
+google_analytics: UA-163103432-1
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Piljae
+  url:          https://piljae.com
+  email:        piljae0802@gmail.com
 
 # Build settings
 markdown:       kramdown
